@@ -41,6 +41,9 @@ I'm a passionate software engineer from Belgium, mostly focused on web developme
 
 ## Recent projects
 
+### [Khaos](https://github.com/DrJBouille/khaos)
+Full-stack sandbox project: Spring Boot (Kotlin), Angular, Go worker, and RabbitMQ 
+
 ### [Iris](https://github.com/DrJBouille/iris)
 A React / Quarkus monorepo with WebRTC to handle voice chat
 
