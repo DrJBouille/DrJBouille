@@ -9,6 +9,7 @@ I'm a passionate software engineer from Belgium, mostly focused on web developme
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
 </p>
@@ -20,6 +21,7 @@ I'm a passionate software engineer from Belgium, mostly focused on web developme
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
@@ -40,6 +42,9 @@ I'm a passionate software engineer from Belgium, mostly focused on web developme
 </p>
 
 ## Recent projects
+
+### LATEST [Hephaestus](https://github.com/DrJBouille/Hephaestus)
+A management platform for Minecraft servers dedicated to building, featuring a web application, an API, and server plugins. 
 
 ### [Khaos](https://github.com/DrJBouille/khaos)
 Full-stack sandbox project: Spring Boot (Kotlin), Angular, Go worker, and RabbitMQ 
